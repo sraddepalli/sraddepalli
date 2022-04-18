@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## https://sraddepalli.github.io
+### https://sraddepalli.github.io
 
-## https://hashnode.com/@sraddepalli
+### https://hashnode.com/@sraddepalli
