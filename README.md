@@ -70,13 +70,13 @@ CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
 CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
 			     
 
-To **understand** more about **my career roles and experience**, please check my **LinkedIn Profile link** (https://www.linkedin.com/in/sraddepalli/) and refer other links: 
+To **understand** more about **my career roles and experience**, please check my **LinkedIn Profile link** (**https://www.linkedin.com/in/sraddepalli/**) and refer other links: 
 
-##### https://sraddepalli.github.io
+#### https://sraddepalli.github.io
 
-##### https://github.com/cloudnloud/SrinivasaRaju-TechArch
+#### https://github.com/cloudnloud/SrinivasaRaju-TechArch
 
-##### https://hashnode.com/@sraddepalli
+#### https://hashnode.com/@sraddepalli
 
 
 
