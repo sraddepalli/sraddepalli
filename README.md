@@ -40,9 +40,9 @@ Certified Agile Service Manager / Prince 2 Certified
 
 #### VOLUNTEERING
 
-###### ROLE: SENIOR TECHNICAL CONSULTANT
-
 #### CLOUDNLOUD TECH COMMUNITY
+
+###### ROLE: SENIOR TECHNICAL CONSULTANT
 
 <P>
 I am part of CloudnLoud Tech Community Consulting Core team.
@@ -57,24 +57,22 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 You can follow / reach us for any queries with the below links:
 
-
-        CloudnLoud Discord https://discord.gg/vbjRQGVhuF
+CloudnLoud Discord https://discord.gg/vbjRQGVhuF
 	
 			
-	CloudnLoud Youtube Channel  https://www.youtube.com/c/cloudnloud
+CloudnLoud Youtube Channel  https://www.youtube.com/c/cloudnloud
 	
 			
-        CloudnLoud Github https://github.com/cloudnloud
+CloudnLoud Github https://github.com/cloudnloud
 	
 			
-	CloudnLoud LinkedIn https://www.linkedin.com/company/cloudnloud
+CloudnLoud LinkedIn https://www.linkedin.com/company/cloudnloud
+	
+       
+CloudnLoud Facebook https://www.facebook.com/cloudnloudtech
 	
 			
-        CloudnLoud Facebook https://www.facebook.com/cloudnloudtech
-	
-			
-	CloudnLoud Twitter https://twitter.com/cloudnloud
-			  
+CloudnLoud Twitter https://twitter.com/cloudnloud			  
 			     
 		
 
