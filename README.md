@@ -79,27 +79,29 @@ CloudnLoud Twitter https://twitter.com/cloudnloud
 To understand more about my career roles and experience, please check my LinkedIn Profile link (https://www.linkedin.com/in/sraddepalli/) and other links: 
 
 
-### https://sraddepalli.github.io
+##### https://sraddepalli.github.io
 
-### https://github.com/cloudnloud/SrinivasaRaju-TechArch
+##### https://github.com/cloudnloud/SrinivasaRaju-TechArch
 
-### https://hashnode.com/@sraddepalli
+##### https://hashnode.com/@sraddepalli
 
 
+<!--
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
 </p>
 
+-->               
 
 
-<!-- hitwebcounter Code START
+<!-- hitwebcounter Code START -->               
+
 
 <p>
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7979204&style=0002&nbdigits=9&type=page&initCount=10000" title="Free Counter" Alt="web counter"   border="0" /></a>   
+<img src="https://hitwebcounter.com/counter/counter.php?page=7979204&style=0002&nbdigits=9&type=page&initCount=10000"/>   
 
 </p>
 
-    -->               
+    
