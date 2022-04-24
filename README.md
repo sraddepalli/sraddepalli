@@ -25,7 +25,7 @@ I am working as **Technical Architect** in financial services and providing advi
 
 • Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps
 
-• Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM
+• Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCOM
 
 • Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
 
@@ -74,7 +74,7 @@ CloudnLoud Twitter **https://twitter.com/cloudnloud**
 
 To **understand** more about **my career roles and experience**, please check my **LinkedIn Profile link** (**https://www.linkedin.com/in/sraddepalli/**) and refer other links: 
 
-#### https://sraddepalli.github.io
+### https://sraddepalli.github.io
 
 #### https://github.com/cloudnloud/SrinivasaRaju-TechArch
 
