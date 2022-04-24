@@ -86,6 +86,7 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <br />
 <br />
+<br />
 
 ### https://sraddepalli.github.io
 
@@ -94,13 +95,17 @@ To **understand** more about **my career roles and experience**, please refer be
 ### https://hashnode.com/@sraddepalli
 
 
+<br />
+<br />
+<br />
+<br />
 
+ <p align="left"> 
+  
+  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
+	
+</p>
 
-
-<br />
-<br />
-<br />
-<br />
 
 <!--
 
@@ -108,9 +113,9 @@ To **understand** more about **my career roles and experience**, please refer be
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
 </p>
-
            
   -->    
+  
 
 
 <!-- hitwebcounter Code START              
@@ -125,11 +130,10 @@ To **understand** more about **my career roles and experience**, please refer be
 
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
+<!-- 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
 
   -->  
   
-  <p align="left"> 
-  
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg"/>
-</p>
+ 
