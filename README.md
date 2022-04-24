@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 ### https://github.com/cloudnloud/SrinivasaRaju-TechArch
 
 ### https://hashnode.com/@sraddepalli
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hritikhere/count.svg" />
+</p>
