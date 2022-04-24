@@ -102,12 +102,15 @@ To **understand** more about **my career roles and experience**, please refer be
 <br />
 <br />
 
+<!--
+
  <p align="left"> 
   
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
 	
 </p>
 
+-->
 
 <!--
 
