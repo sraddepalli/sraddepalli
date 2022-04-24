@@ -24,21 +24,25 @@ I am working as Technical Architect in Financial Services and providing advisory
 • Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps
 
 • Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM
+
 • Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
+
 • Agile Service Delivery, Stakeholder Management, ITSM, Project Management
-Aug 2017 - Present
 
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
 
-𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞
+AWS Certified Solutions Architect Associate
 
 Certified Agile Service Manager / Prince 2 Certified
 
 
-<p> VOLUNTEERING </p>
-<p> ROLE: SENIOR TECHNICAL CONSULTANT </p>
-<p> <b> CLOUDNLOUD TECH COMMUNITY </b> </p>
+
+#### VOLUNTEERING
+
+###### ROLE: SENIOR TECHNICAL CONSULTANT
+
+#### CLOUDNLOUD TECH COMMUNITY
 
 <P>
 I am part of CloudnLoud Tech Community Consulting Core team.
@@ -53,18 +57,28 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 You can follow / reach us for any queries with the below links:
 
-<p>
-                 	CloudnLoud Discord <a href="https://discord.gg/vbjRQGVhuF"></a>
-			CloudnLoud Youtube Channel  <a href="https://www.youtube.com/c/cloudnloud"></a>
-                        CloudnLoud Github <a href="https://github.com/cloudnloud"></a>
-			CloudnLoud LinkedIn <a href="https://www.linkedin.com/company/cloudnloud"></a>
-                        CloudnLoud Facebook <a href="https://www.facebook.com/cloudnloudtech"></a>
-			CloudnLoud Twitter <a href="https://twitter.com/cloudnloud"></a>
+
+        CloudnLoud Discord https://discord.gg/vbjRQGVhuF
+	
+			
+	CloudnLoud Youtube Channel  https://www.youtube.com/c/cloudnloud
+	
+			
+        CloudnLoud Github https://github.com/cloudnloud
+	
+			
+	CloudnLoud LinkedIn https://www.linkedin.com/company/cloudnloud
+	
+			
+        CloudnLoud Facebook https://www.facebook.com/cloudnloudtech
+	
+			
+	CloudnLoud Twitter https://twitter.com/cloudnloud
 			  
 			     
-		</p>
+		
 
-To understand more about my career roles and experience, please check my LinkedIn Profile.
+To understand more about my career roles and experience, please check my LinkedIn Profile link (https://www.linkedin.com/in/sraddepalli/) and other links: 
 
 
 ### https://sraddepalli.github.io
@@ -73,16 +87,16 @@ To understand more about my career roles and experience, please check my LinkedI
 
 ### https://hashnode.com/@sraddepalli
 
-<!--
+
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
 </p>
 
--->
 
-<!-- hitwebcounter Code START -->
+
+<!-- hitwebcounter Code START
 
 <p>
 <a href="https://www.hitwebcounter.com" target="_blank">
@@ -90,4 +104,4 @@ To understand more about my career roles and experience, please check my LinkedI
 
 </p>
 
-                  
+    -->               
