@@ -81,6 +81,20 @@ To **understand** more about **my career roles and experience**, please check my
 ### https://hashnode.com/@sraddepalli
 
 
+<a href="https://twitter.com/sraddepalli">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/sraddepalli">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/sraddepalli">
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+
+<br/>
+<br/>
+
 <!--
 
 <p align="center"> 
@@ -109,6 +123,6 @@ To **understand** more about **my career roles and experience**, please check my
   -->  
   
   <p align="left"> 
-  Visitor count<br>
+  
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" label=Views color=blue style=plastic />
 </p>
