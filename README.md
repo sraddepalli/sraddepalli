@@ -63,19 +63,14 @@ Check the **Posts and events sections ** in our CloudnLoud LinkedIn page for **u
 	
 Check for **Cloud & DevOps full series** in our CloudnLoud Youtube Channel  **https://www.youtube.com/c/cloudnloud**
 	
-			
-CloudnLoud Github https://github.com/cloudnloud
-	
+For all use cases refer our CloudnLoud Github **https://github.com/cloudnloud**
      
-CloudnLoud Facebook https://www.facebook.com/cloudnloudtech
+CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
 	
-			
-CloudnLoud Twitter https://twitter.com/cloudnloud			  
+CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
 			     
-		
 
-To understand more about my career roles and experience, please check my LinkedIn Profile link (https://www.linkedin.com/in/sraddepalli/) and other links: 
-
+To **understand** more about **my career roles and experience**, please check my **LinkedIn Profile link** (https://www.linkedin.com/in/sraddepalli/) and refer other links: 
 
 ##### https://sraddepalli.github.io
 
