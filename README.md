@@ -104,4 +104,11 @@ To **understand** more about **my career roles and experience**, please check my
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
+
+  -->  
+  
+  <p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" label=Views color=blue style=plastic />
+</p>
