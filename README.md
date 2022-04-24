@@ -72,14 +72,7 @@ CloudnLoud Facebook **https://www.facebook.com/cloudnloudtech**
 CloudnLoud Twitter **https://twitter.com/cloudnloud**			  
 			     
 
-To **understand** more about **my career roles and experience**, please check my **LinkedIn Profile link** (**https://www.linkedin.com/in/sraddepalli/**) and refer other links: 
-
-### https://sraddepalli.github.io
-
-### https://github.com/cloudnloud/SrinivasaRaju-TechArch
-
-### https://hashnode.com/@sraddepalli
-
+To **understand** more about **my career roles and experience**, please refer below links: 
 
 <a href="https://twitter.com/sraddepalli">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -91,9 +84,23 @@ To **understand** more about **my career roles and experience**, please check my
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br />
+<br />
 
-<br/>
-<br/>
+### https://sraddepalli.github.io
+
+### https://github.com/cloudnloud/SrinivasaRaju-TechArch
+
+### https://hashnode.com/@sraddepalli
+
+
+
+
+
+<br />
+<br />
+<br />
+<br />
 
 <!--
 
@@ -124,5 +131,5 @@ To **understand** more about **my career roles and experience**, please check my
   
   <p align="left"> 
   
-  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" label=Views color=blue style=plastic />
+  <img src="https://profile-counter.glitch.me/sraddepalli/count.svg"/>
 </p>
