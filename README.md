@@ -55,20 +55,18 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
-You can follow / reach us for any queries with the below links:
+You can follow / reach us with the below links:
 
-CloudnLoud Discord https://discord.gg/vbjRQGVhuF
+For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**
 	
-			
-CloudnLoud Youtube Channel  https://www.youtube.com/c/cloudnloud
+Check the **Posts and events sections ** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
+	
+Check for **Cloud & DevOps full series** in our CloudnLoud Youtube Channel  **https://www.youtube.com/c/cloudnloud**
 	
 			
 CloudnLoud Github https://github.com/cloudnloud
 	
-			
-CloudnLoud LinkedIn https://www.linkedin.com/company/cloudnloud
-	
-       
+     
 CloudnLoud Facebook https://www.facebook.com/cloudnloudtech
 	
 			
@@ -86,17 +84,16 @@ To understand more about my career roles and experience, please check my LinkedI
 ##### https://hashnode.com/@sraddepalli
 
 
-<!--
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
 </p>
 
--->               
+           
 
 
-<!-- hitwebcounter Code START -->               
+<!-- hitwebcounter Code START              
 
 
 <p>
@@ -104,4 +101,4 @@ To understand more about my career roles and experience, please check my LinkedI
 
 </p>
 
-    
+    -->    
