@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 This Srinivasa Raju.
 
-I am working as Technical Architect in Financial Services and providing advisory services to the customers and applications teams on Cloud Migration as part of CSA team.
+I am working as Technical Architect in financial services and providing advisory services to the customers and applications teams on Cloud Migration as part of CSA team.
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
