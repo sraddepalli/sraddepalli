@@ -88,22 +88,19 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <br />
 <br />
-<br />
-
-### https://sraddepalli.github.io
-
-### https://github.com/cloudnloud/SrinivasaRaju-TechArch
-
-### https://hashnode.com/@sraddepalli
 
 
-<br />
-<br />
-<br />
-<br />
+#### https://sraddepalli.github.io
+
+#### https://github.com/cloudnloud/SrinivasaRaju-TechArch
+
+#### https://hashnode.com/@sraddepalli
+
+
+
+
 
 <!--
-
  <p align="left"> 
   
   <img src="https://profile-counter.glitch.me/sraddepalli/count.svg" />
