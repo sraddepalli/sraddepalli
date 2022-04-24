@@ -36,9 +36,11 @@ Aug 2017 - Present
 Certified Agile Service Manager / Prince 2 Certified
 
 
-VOLUNTEERING
-ROLE: SENIOR TECHNICAL CONSULTANT
-CLOUDNLOUD TECH COMMUNITY
+<p> VOLUNTEERING </p>
+<p> ROLE: SENIOR TECHNICAL CONSULTANT </p>
+<p> <b> CLOUDNLOUD TECH COMMUNITY </b> </p>
+
+<P>
 I am part of CloudnLoud Tech Community Consulting Core team.
 
 The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
@@ -47,19 +49,20 @@ The goal of our community is to bring together companies, leaders and profession
 
 At CloudnLoud Tech community, we are organizing free tech conferences, technical trainings and technical discussions on various IT technologies & open source tools.
 
+</p>
 
 You can follow / reach us for any queries with the below links:
 
- <div class="social-icons">
-                         <a target ="_blank" class="social-icon" href="https://discord.gg/vbjRQGVhuF"><i class="fab fa-discord"></i></a>
-			  <a target ="_blank" class="social-icon" href="https://www.youtube.com/c/cloudnloud"><i class="fab fa-youtube"></i></a>
-                        <a target ="_blank" class="social-icon" href="https://github.com/cloudnloud"><i class="fab fa-github"></i></a>
-			<a target ="_blank" class="social-icon" href="https://wwww.linkedin.com/company/80359681/admin/"><i class="fab fa-linkedin-in"></i></a>
-                        <a target = "_blank" class="social-icon" href="https://twitter.com/cloudnloud"><i class="fab fa-twitter"></i></a>
-                        <a target = "_blank" class="social-icon" href="https://www.facebook.com/cloudnloudtech"><i class="fab fa-facebook-f"></i></a>
+<p>
+                 	CloudnLoud Discord <a href="https://discord.gg/vbjRQGVhuF"></a>
+			CloudnLoud Youtube Channel  <a href="https://www.youtube.com/c/cloudnloud"></a>
+                        CloudnLoud Github <a href="https://github.com/cloudnloud"></a>
+			CloudnLoud LinkedIn <a href="https://www.linkedin.com/company/cloudnloud"></a>
+                        CloudnLoud Facebook <a href="https://www.facebook.com/cloudnloudtech"></a>
+			CloudnLoud Twitter <a href="https://twitter.com/cloudnloud"></a>
 			  
 			     
-			</div>
+		</p>
 
 To understand more about my career roles and experience, please check my LinkedIn Profile.
 
@@ -80,6 +83,11 @@ To understand more about my career roles and experience, please check my LinkedI
 -->
 
 <!-- hitwebcounter Code START -->
+
+<p>
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7979204&style=0002&nbdigits=9&type=page&initCount=10000" title="Free Counter" Alt="web counter"   border="0" /></a>                                    
+<img src="https://hitwebcounter.com/counter/counter.php?page=7979204&style=0002&nbdigits=9&type=page&initCount=10000" title="Free Counter" Alt="web counter"   border="0" /></a>   
+
+</p>
+
                   
