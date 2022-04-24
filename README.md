@@ -61,7 +61,7 @@ You can follow / reach us with the below links:
 
 For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**
 	
-Check the **Posts and events sections ** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
+Check **Posts and events sections** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
 	
 Check for **Cloud & DevOps full series** in our CloudnLoud Youtube Channel  **https://www.youtube.com/c/cloudnloud**
 	
