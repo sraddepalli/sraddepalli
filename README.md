@@ -81,6 +81,7 @@ To **understand** more about **my career roles and experience**, please check my
 ### https://hashnode.com/@sraddepalli
 
 
+<!--
 
 <p align="center"> 
   Visitor count<br>
@@ -88,6 +89,7 @@ To **understand** more about **my career roles and experience**, please check my
 </p>
 
            
+  -->    
 
 
 <!-- hitwebcounter Code START              
@@ -99,3 +101,7 @@ To **understand** more about **my career roles and experience**, please check my
 </p>
 
     -->    
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sraddepalli&label=Views&color=blue&style=plastic" alt="sraddepalli" /> </p>
