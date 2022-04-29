@@ -95,8 +95,6 @@ To **understand** more about **my career roles and experience**, please refer be
 
 #### https://sraddepalli.github.io
 
-#### https://github.com/cloudnloud/SrinivasaRaju-TechArch
-
 #### https://hashnode.com/@sraddepalli
 
 
