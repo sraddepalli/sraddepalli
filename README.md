@@ -19,7 +19,7 @@ This Srinivasa Raju.
 
 Having 14+ years of professional experience in IT Infra with Masters education. Helping customers with security advisory services on Cloud Migration engagements.
 
-I am working as **Technical Architect** in financial services and providing advisory services to the customers and applications teams on Cloud Migration as part of CSA team. 
+I am working in FinTech and providing advisory services to the customers and applications teams on Cloud Migration as part of CSO CSCM team. 
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
@@ -96,8 +96,6 @@ To **understand** more about **my career roles and experience**, please refer be
 <br />
 
 #### https://sraddepalli.github.io
-
-
 
 
 <!--
