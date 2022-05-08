@@ -81,20 +81,19 @@ To **understand** more about **my career roles and experience**, please refer be
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/sraddepalli">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
 <a href="https://github.com/sraddepalli">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://hashnode.com/@sraddepalli">
   <img align="left" alt="hashnode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
-<br />
-<br />
 
-#### https://hashnode.com/@sraddepalli
+<a href="https://twitter.com/sraddepalli">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<br />
+<br />
 
 #### https://sraddepalli.github.io
 
