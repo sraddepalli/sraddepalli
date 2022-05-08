@@ -42,8 +42,6 @@ Certified Agile Service Manager / Prince 2 Certified
 
 #### VOLUNTEERING
 
-#### CLOUDNLOUD TECH COMMUNITY
-
 ###### ROLE: SENIOR TECHNICAL CONSULTANT
 
 <P>
