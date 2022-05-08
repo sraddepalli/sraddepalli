@@ -91,9 +91,9 @@ To **understand** more about **my career roles and experience**, please refer be
 </a>
 
 <br />
-<br />
 
-##### https://sraddepalli.github.io
+
+#### https://sraddepalli.github.io
 
 
 <!--
