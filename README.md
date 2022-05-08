@@ -92,7 +92,6 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <br />
 <br />
-
 #### https://sraddepalli.github.io
 
 
