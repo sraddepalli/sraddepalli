@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 
 This Srinivasa Raju.
 
-Having 14+ years of professional experience in IT Infra with Masters education. Helping customers with security advisory services on Cloud Migration engagements.
-
-I am working in FinTech and providing advisory services to the customers and applications teams on Cloud Migration as part of CSO CSCM team. 
+Having 14+ years of professional experience in IT Infra with Masters education. Helping Customers / CISO with continues delivery on Infra deployments & implementations. Helped customers with security advisory services on Cloud Migration engagements as part of CSO CSCM team. 
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
@@ -40,12 +38,20 @@ Certified Agile Service Manager / Prince 2 Certified
 
 
 
-#### VOLUNTEERING
+#### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-###### ROLE: SENIOR TECHNICAL CONSULTANT
+###### ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬
 
 <P>
-I am part of CloudnLoud Tech Community Consulting Core team.
+I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category.
+
+</p>
+
+
+###### ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
+
+<P>
+I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
 
 The CloudnLoud Tech Community is a non-profit open source tech community, volunteer-run events presenting by members of the CloudnLoud Community.
 
