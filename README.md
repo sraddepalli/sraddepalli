@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This Srinivasa Raju.
+Myself Srinivasa Raju.
 
 Having 14+ years of professional experience in IT Infra with Masters education. Helping Customers / CISO with continues delivery on Infra deployments & implementations. Helped customers with security advisory services on Cloud Migration engagements as part of CSO CSCM team. 
 
@@ -32,7 +32,7 @@ Having 14+ years of professional experience in IT Infra with Masters education. 
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
 
-AWS Certified Solutions Architect Associate
+AWS Certified Solutions Architect Associate / Microsoft Certified Professional
 
 Certified Agile Service Manager / Prince 2 Certified
 
@@ -40,7 +40,7 @@ Certified Agile Service Manager / Prince 2 Certified
 
 #### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-###### ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬
+###### ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
 
 <P>
 I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category.
