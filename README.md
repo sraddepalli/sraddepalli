@@ -17,25 +17,28 @@ Here are some ideas to get you started:
 
 Myself Srinivasa Raju.
 
-Having 14+ years of professional experience in IT Infra with Masters education. Helping Customers / CISO with continues delivery on Infra deployments & implementations. Helped customers with security advisory services on Cloud Migration engagements as part of CSO CSCM team. 
+Having 14+ years of professional experience in IT Infra with Masters education. 
 
-𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
-
-• Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps
-
-• Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCOM
-
-• Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
-
-• Agile Service Delivery, Stakeholder Management, ITSM, Project Management
-
+Working as Product Architect / Manager  - Helping customers with Helped CSO and CIO with Cloud Migration Security Advisory and Transformation engagements for Financial Services. 
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
 
-AWS Certified Solutions Architect Associate / Microsoft Certified Professional
+𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 / Microsoft Azure / Oracle Cloud Associate) / Certified Agile Service Manager / Prince 2 Certified
 
-Certified Agile Service Manager / Prince 2 Certified
+𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
+•	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps
+•	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM
+•	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
+•      Agile Service Delivery, Stakeholder Management, ITSM, Project Management
+
+Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
+
+Roles Performed:  Solutions Architect / Technical Architect, Infra Lead, Tower Lead - Wintel
+
+Profile: https://sraddepalli.github.io/
+LinkedIn: https://www.linkedin.com/in/sraddepalli/
+blogs: https://blog.cloudnloud.com/series/awscloudglance
 
 
 #### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
