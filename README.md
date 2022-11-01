@@ -36,10 +36,6 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 
 Roles Performed:  Solutions Architect / Technical Architect, Infra Lead, Tower Lead - Wintel
 
-Profile: https://sraddepalli.github.io/
-LinkedIn: https://www.linkedin.com/in/sraddepalli/
-blogs: https://blog.cloudnloud.com/series/awscloudglance
-
 
 #### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
@@ -101,6 +97,12 @@ To **understand** more about **my career roles and experience**, please refer be
 
 <br />
 
+
+Profile: https://sraddepalli.github.io/  <br />
+ 
+LinkedIn: https://www.linkedin.com/in/sraddepalli/  <br />
+
+blogs: https://blog.cloudnloud.com/series/awscloudglance
 
 #### https://sraddepalli.github.io
 
