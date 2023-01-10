@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 Myself Srinivasa Raju.
 
-Having 14+ years of professional experience in IT Infra with Masters education. 
+Having 15 years of professional experience in IT with Masters education (MCA). 
 
-Working as Product Architect / Manager  - Helping customers with Helped CSO and CIO with Cloud Migration Security Advisory and Transformation engagements for Financial Services. 
+Working as Cloud Architect / Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
+
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
 
