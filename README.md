@@ -37,7 +37,7 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
 
 
-# TECHNICAL CONTRIBUTION
+## TECHNICAL CONTRIBUTION
 
 ## AWS
 
@@ -52,12 +52,12 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 - [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
 
 
-# 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
+## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
 ## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
 
 <P>
-I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category.
+I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
 
 </p>
 
