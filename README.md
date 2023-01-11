@@ -1,4 +1,4 @@
-### Hi 👋
+
 
 <!--
 **sraddepalli/sraddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi 👋
 
 I'm **Srinivasa Raju.
 
@@ -54,7 +56,6 @@ UK Resident.
 - [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
 - [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
 
- <br />
 
 #### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
@@ -117,13 +118,10 @@ To **understand** more about **my career roles and experience**, please refer be
 <br />
 <br />
 
-Profile: https://sraddepalli.github.io/  <br />
  
-LinkedIn: https://www.linkedin.com/in/sraddepalli/  <br />
 
-blogs: https://blog.cloudnloud.com/series/awscloudglance
 
-#### https://sraddepalli.github.io
+#### My Profile: https://sraddepalli.github.io   <br />
 
 
 <!--
