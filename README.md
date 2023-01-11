@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 ### Hi 👋
 
-I'm **Srinivasa Raju.
+
+I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; aka **Srinivas**. .
 
 Having 15 years of professional experience in IT with Masters education (MCA). 
 
-Working as Cloud Architect / Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
+Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
 
 UK Resident.
 
