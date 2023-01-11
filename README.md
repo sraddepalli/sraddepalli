@@ -25,10 +25,8 @@ Working as Cloud Architect / Manager - Cloud & DevOps. Helping customers with Im
 
 UK Resident.
 
+Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
 
-𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
-
-𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 / Microsoft Azure / Oracle Cloud Associate / Certified Agile Service Manager / Prince 2 Certified
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
@@ -36,10 +34,6 @@ UK Resident.
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management
-
-** Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
-
-** Roles Performed:  Solutions Architect / Technical Architect, Senior Citrix Administrator, Tower Lead - Wintel
 
 
 #### TECHNICAL CONTRIBUTION
@@ -80,9 +74,9 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 </p>
 
-You can follow / reach us with the below links:
+Follow / reach us with the below links:
 
-For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**
+<!-- For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**      -->
 	
 Check **Posts and events sections** in our CloudnLoud LinkedIn page for **upcoming free technical sessions/events**: **https://www.linkedin.com/company/cloudnloud**
 	
@@ -116,10 +110,6 @@ To **understand** more about **my career roles and experience**, please refer be
 </a>
 
 <br />
-<br />
-
- 
-
 
 #### My Profile: https://sraddepalli.github.io   <br />
 
