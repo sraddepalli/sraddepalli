@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋
+## Hi 👋
 
 
 I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; aka **Srinivas**. .
@@ -29,7 +29,7 @@ UK Resident.
 Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
 
 
-𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
+## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
 •	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
@@ -37,9 +37,9 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
 
 
-#### TECHNICAL CONTRIBUTION
+# TECHNICAL CONTRIBUTION
 
-#### AWS
+## AWS
 
 - [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
 - [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
@@ -52,9 +52,9 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 - [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
 
 
-#### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
+# 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-###### ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
+## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
 
 <P>
 I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category.
@@ -62,7 +62,7 @@ I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢�
 </p>
 
 
-###### ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
