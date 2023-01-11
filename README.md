@@ -31,7 +31,8 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 
 ## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
-•	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps <br />
+•	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps, CI/CD <br />
+•	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
