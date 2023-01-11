@@ -29,7 +29,7 @@ UK Resident.
 Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
 
 
-## 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
+## 𝐓ECHNICAL SKILLS
 
 •	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps, CI/CD <br />
 •	Python, Terraform, PowerShell <br />
