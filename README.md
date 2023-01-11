@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **sraddepalli/sraddepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Myself Srinivasa Raju.
+I'm **Srinivasa Raju.
 
 Having 15 years of professional experience in IT with Masters education (MCA). 
 
 Working as Cloud Architect / Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
 
+UK Resident.
+
 
 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬:
 
-𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 / Microsoft Azure / Oracle Cloud Associate) / Certified Agile Service Manager / Prince 2 Certified
+𝐀𝐖𝐒 𝐒𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞 / Microsoft Azure / Oracle Cloud Associate / Certified Agile Service Manager / Prince 2 Certified
 
 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬
 
@@ -33,10 +35,26 @@ Working as Cloud Architect / Manager - Cloud & DevOps. Helping customers with Im
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
+** Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
 
-Roles Performed:  Solutions Architect / Technical Architect, Infra Lead, Tower Lead - Wintel
+** Roles Performed:  Solutions Architect / Technical Architect, Senior Citrix Administrator, Tower Lead - Wintel
 
+
+#### TECHNICAL CONTRIBUTION
+
+#### AWS
+
+- [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
+- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
+- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+- [AWS Cloud Services - AWS MGN](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
+- [Security best practices of Amazon S3](https://blog.cloudnloud.com/security-best-practices-of-amazon-s3)
+- [Connect on-premises network securely to the AWS Cloud](https://blog.cloudnloud.com/connect-on-premises-network-securely-to-the-aws-cloud)
+- [AWS Control Tower Overview & Set up](https://blog.cloudnloud.com/aws-control-tower-overview-set-up)
+- [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
+- [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
+
+ <br />
 
 #### 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
@@ -97,7 +115,7 @@ To **understand** more about **my career roles and experience**, please refer be
 </a>
 
 <br />
-
+<br />
 
 Profile: https://sraddepalli.github.io/  <br />
  
