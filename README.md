@@ -151,7 +151,7 @@ At CloudnLoud Tech community, we are organizing free tech conferences, technical
 
 - [AWS weekly-cloud-engineer-interview-program](https://github.com/cloudnloud/weekly-cloud-engineer-interview-program)
 
-Follow / reach us with the below links:
+Follow us (**CloudnLoud Tech Community**) with the below links:
 
 <!-- For **any queries** use our CloudnLoud Discord **https://discord.gg/vbjRQGVhuF**      -->
 	
