@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 Having 15 years of professional experience in IT with Masters education (MCA). 
 
-Working as Technical Architect / Transformation Manager - Cloud & DevOps. Helping customers with Implementation & Cloud Migration - Fintech. 
+Working as Principal Consultant / Program Manager - Cloud Infrastructure. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
 UK Resident.
 
@@ -32,6 +32,7 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 ## 𝐓ECHNICAL SKILLS
 
 •	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps, CI/CD <br />
+•	Power BI, Tableau
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
@@ -63,7 +64,7 @@ I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢�
 </p>
 
 
-## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐀𝐦𝐛𝐚𝐬𝐬𝐚𝐝𝐨𝐫 / Leader
 
 <P>
 I am part of 𝐂𝐥𝐨𝐮𝐝𝐧𝐋𝐨𝐮𝐝 𝐓𝐞𝐜𝐡 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 Core team.
