@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can call me - **Srinivas**. .
 
-Having 15 years of professional experience in IT with Masters education (MCA). 
+Having 15+ years of professional experience in IT with Masters education (MCA). 
 
 Working as Principal Consultant / Program Manager - Cloud Infrastructure. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
 UK Resident.
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U, Public Sector engagements.
+Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U.
 
 
 ## 𝐓ECHNICAL SKILLS
