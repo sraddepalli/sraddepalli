@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 Having 15+ years of professional experience in IT with Masters education (MCA). 
 
-Working as Principal Consultant / Technical Delivery Manager - Cloud Infrastructure. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+Working as Principal Consultant / Manager - Cloud Infrastructure. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
 UK Resident.
 
