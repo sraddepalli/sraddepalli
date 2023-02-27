@@ -42,16 +42,16 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 ## TECHNICAL CONTRIBUTION
 
 ## AWS
-
+- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+- [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
 - [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
 - [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
-- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
-- [AWS Cloud Services - AWS MGN](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
 - [Security best practices of Amazon S3](https://blog.cloudnloud.com/security-best-practices-of-amazon-s3)
 - [Connect on-premises network securely to the AWS Cloud](https://blog.cloudnloud.com/connect-on-premises-network-securely-to-the-aws-cloud)
 - [AWS Control Tower Overview & Set up](https://blog.cloudnloud.com/aws-control-tower-overview-set-up)
 - [AWS Purpose-built databases Use Cases](https://blog.cloudnloud.com/aws-purpose-built-databases-use-cases)
 - [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
+- 
 
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
