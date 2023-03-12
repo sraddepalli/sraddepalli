@@ -43,6 +43,7 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 
 ## AWS
 - [𝐖𝐡𝐲 𝐢𝐬 𝐭𝐡𝐞 𝐓𝐞𝐫𝐫𝐚𝐟𝐨𝐫𝐦 𝐬𝐭𝐚𝐭𝐞 𝐬𝐨 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐟𝐨𝐫 𝐦𝐚𝐧𝐚𝐠𝐢𝐧𝐠 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-terraform-cloud-activity-7037862917513355265-Il7N/)
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
 - [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
 - [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
 - [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
