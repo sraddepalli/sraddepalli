@@ -31,7 +31,7 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 
 ## 𝐓ECHNICAL SKILLS
 
-•	Cloud (AWS, Google Cloud, Microsoft Azure and Oracle Cloud), Automation & DevOps, CI/CD <br />
+•	AWS, DevOps, CI/CD <br />
 •	Power BI, Tableau
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
