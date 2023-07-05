@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 Having 15+ years of professional experience in IT with Masters education (MCA). 
 
-Working as Principal Consultant / Senior Manager - Cloud, Security & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+Working as Cloud Architect / Principal Consultant - Cloud, Security & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
 
 UK Resident.
 
@@ -32,7 +32,7 @@ Having domain experience in Financial Services, Utilities, Oil and Gas, Telecomm
 ## 𝐓ECHNICAL SKILLS
 
 •	AWS, DevOps, CI/CD <br />
-•	Power BI, Tableau
+•	Power BI, Tableau <br />
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
