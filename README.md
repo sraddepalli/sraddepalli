@@ -20,13 +20,17 @@ Here are some ideas to get you started:
 
 I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can call me - **Srinivas**. .
 
-Having 15+ years of professional experience in IT with Masters education (MCA). 
+• Having 15+ years of professional experience in IT with Masters education (MCA).
 
-Working as Cloud Architect / Principal Consultant - Cloud, Security & Data. Helped customers with Data & Cloud Migration, Security Advisory for Cloud Migration Engagements. 
+• Working as Cloud Architect / Principal Consultant - Cloud, Security & Data. 
 
-UK Resident.
+• Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering Services Enablement team.
 
-Having domain experience in Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, E & U.
+• Helped Customers, CISO / CIO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
+
+• UK Resident.
+
+• Having domain experience in Financial Services, Retail, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
 
 
 ## 𝐓ECHNICAL SKILLS
