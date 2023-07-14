@@ -47,6 +47,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## AWS
 
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐈𝐂 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 (𝐄𝐂2 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭)?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-learning-tech-activity-7076920025122525184-qEAF)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-learning-tech-activity-7080059668395384832-w92u)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
 - [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
