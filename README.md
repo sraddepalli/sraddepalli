@@ -35,7 +35,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## 𝐓ECHNICAL SKILLS
 
-•	AWS, DevOps, CI/CD <br />
+•	AWS, DevOps, CI/CD, Azure, GCP, Oracle Cloud <br />
 •	Power BI, Tableau <br />
 •	Python, Terraform, PowerShell <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
