@@ -47,16 +47,16 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## CNCF
 
-- [Why do we use Amazon Managed Service for Prometheus (AMP)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+- [Why do we use Amazon Managed Service for Prometheus (AMP)](https://blog.cloudnloud.com/amazon-managed-service-for-prometheus)
 
 
 ## AI / ML
 
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐋𝐌𝐬 (𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬) 𝐢𝐧 𝐀𝐈?] (https://medium.com/cloudnloud/large-language-models-introduction-1ce7812cd3c2)
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐋𝐌𝐬 (𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬) 𝐢𝐧 𝐀𝐈?](https://medium.com/cloudnloud/large-language-models-introduction-1ce7812cd3c2)
 
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 𝐢𝐧 𝐀𝐈?] (https://medium.com/cloudnloud/introduction-fa6269f8df9c)
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 𝐢𝐧 𝐀𝐈?](https://medium.com/cloudnloud/introduction-fa6269f8df9c)
 
-- [𝐖𝐡𝐲 𝐬𝐡𝐨𝐮𝐥𝐝 𝐰𝐞 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫 𝐏𝐫𝐨𝐦𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠?] (https://medium.com/cloudnloud/prompt-engineering-2c4ba3c2b8e9)
+- [𝐖𝐡𝐲 𝐬𝐡𝐨𝐮𝐥𝐝 𝐰𝐞 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫 𝐏𝐫𝐨𝐦𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠?](https://medium.com/cloudnloud/prompt-engineering-2c4ba3c2b8e9)
   
 
 ## AWS
