@@ -45,12 +45,24 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## TECHNICAL CONTRIBUTION
 
+## CNCF
+
+- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+
+## AI / ML
+
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐋𝐌𝐬 (𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬) 𝐢𝐧 𝐀𝐈?] (https://medium.com/cloudnloud/large-language-models-introduction-1ce7812cd3c2)
+
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐚𝐧𝐠𝐂𝐡𝐚𝐢𝐧 𝐢𝐧 𝐀𝐈?] (https://medium.com/cloudnloud/introduction-fa6269f8df9c)
+
+- [𝐖𝐡𝐲 𝐬𝐡𝐨𝐮𝐥𝐝 𝐰𝐞 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫 𝐏𝐫𝐨𝐦𝐩𝐭 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠?] (https://medium.com/cloudnloud/prompt-engineering-2c4ba3c2b8e9)
+  
+
 ## AWS
 
-- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐈𝐂 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 (𝐄𝐂2 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭)?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-learning-tech-activity-7076920025122525184-qEAF)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-learning-tech-activity-7080059668395384832-w92u)
+- [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐈𝐂 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 (𝐄𝐂2 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭)?](https://www.linkedin.com/posts/sraddepalli_cloudnloud-learning-tech-activity-7076920025122525184-qEAF)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
-- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
 - [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://blog.cloudnloud.com/aws-cloud-services-aws-mgn)
 - [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://blog.cloudnloud.com/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
 - [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://blog.cloudnloud.com/aws-cloud-services-pillars-of-aws-well-architected-framework)
