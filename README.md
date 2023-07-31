@@ -47,7 +47,8 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## CNCF
 
-- [AWS Cloud Services - AMP (Amazon Managed Service for Prometheus)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+- [Why do we use Amazon Managed Service for Prometheus (AMP)](https://blog.cloudnloud.com/aws-cloud-services-amp-in-aws#heading-aws-cloud-services-amp-in-aws)
+
 
 ## AI / ML
 
