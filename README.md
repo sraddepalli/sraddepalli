@@ -45,11 +45,6 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## TECHNICAL CONTRIBUTION
 
-## CNCF
-
-- [Why do we use Amazon Managed Service for Prometheus (AMP)](https://blog.cloudnloud.com/amazon-managed-service-for-prometheus)
-
-
 ## AI / ML
 
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐋𝐋𝐌𝐬 (𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬) 𝐢𝐧 𝐀𝐈?](https://medium.com/cloudnloud/large-language-models-introduction-1ce7812cd3c2)
@@ -74,6 +69,10 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 - [AWS Global Accelerator](https://blog.cloudnloud.com/aws-global-accelerator)
 - [Why should we use 𝐀𝐌𝐏 (𝐀𝐦𝐚𝐳𝐨𝐧 𝐌𝐚𝐧𝐚𝐠𝐞𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐟𝐨𝐫 𝐏𝐫𝐨𝐦𝐞𝐭𝐡𝐞𝐮𝐬?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-core-services-amp-in-aws-activity-6953409256582750208-DDCn)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐌𝐆𝐍 (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)?](https://www.linkedin.com/posts/sraddepalli_aws-cloud-services-mgn-activity-6958126395973632002-FaUo/)
+
+## CNCF
+
+- [Why do we use Amazon Managed Service for Prometheus (AMP)](https://blog.cloudnloud.com/amazon-managed-service-for-prometheus)
 
 
 ## Terraform
