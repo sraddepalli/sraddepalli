@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Having 15+ years of professional experience in IT with Masters education (MCA).
 
-• Working as **Cloud Architect / Principal Consultant** - Cloud, Security & Data. 
+• Working as ** Principal Consultant / Senior Manager** - Cloud, Security & Data. 
 
 • Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering Services Enablement team.
 
