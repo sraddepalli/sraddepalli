@@ -35,10 +35,16 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## 𝐓ECHNICAL SKILLS
 
-•	AWS, DevOps, CI/CD, Azure, GCP, Oracle Cloud <br />
-•	Power BI, Tableau <br />
-•	Python, Terraform, PowerShell <br />
+### Cloud Native
+
+•	AWS - Amazon EKS, ECS, API Gateway, CloudWatch, CloudTrail, App Mesh, DynamoDB, Aurora Serverless, Fargate, ECR, Lambda <br />
+•	Azure, GCP, Oracle Cloud <br />
+
+## Other Technical Skills
+
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
+•	Power BI, Tableau <br />
+•	DevOps, CI/CD, Python, Terraform, PowerShell <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
 
