@@ -26,7 +26,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering Services Enablement team.
 
-• Helped Customers, CISO / CIO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
+• Helped Customers, CISO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
 
 • UK Resident.
 
