@@ -35,7 +35,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 • Having domain experience in Financial Services, Retail, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
 
 
-## TEHNICAL SKILLS
+## TECHNICAL SKILLS
 
 ### Cloud Native
 
