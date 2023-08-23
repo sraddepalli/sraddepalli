@@ -24,11 +24,13 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Working as **Platform Engineering Lead / Senior Manager** - Cloud, Security, Data, AI, ML, Generative AI & Prompt Engineering. 
 
-• Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering Services Enablement team.
+• Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering team.
 
-• Helped Customers, CISO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
+• Helped CISO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
 
 • UK Resident.
+
+• AWS Community Builder
 
 • Having domain experience in Financial Services, Retail, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
 
