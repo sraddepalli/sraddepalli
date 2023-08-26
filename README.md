@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Having 15+ years of professional experience in IT with Masters education (MCA).
 
-• Working as **Platform Engineering Lead / Senior Manager** - Cloud, Security, Data, AI, ML, Generative AI & Prompt Engineering. 
+• Working as **Enterprise Architect / Platform Engineering Lead** - Cloud, Security, Data, AI, ML, Generative AI & Prompt Engineering. 
 
 • Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering team.
 
