@@ -55,8 +55,8 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## Meetup Organizer
 
-https://www.meetup.com/data-ai-ml-europe-uk/
-https://www.meetup.com/cloud-devops-sre-europe-uk/
+https://www.meetup.com/data-ai-ml-europe-uk/ <br />
+https://www.meetup.com/cloud-devops-sre-europe-uk/ <br />
 
 ## TECHNICAL CONTRIBUTION
 
