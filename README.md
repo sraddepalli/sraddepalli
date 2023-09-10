@@ -39,14 +39,17 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ### Cloud Native
 
-•	AWS - Amazon EKS, ECS, API Gateway, CloudWatch, CloudTrail, App Mesh, DynamoDB, Aurora Serverless, Fargate, ECR, Lambda <br />
-•	Azure, GCP, Oracle Cloud <br />
+•	AWS - EKS, ECS, DynamoDB, Aurora Serverless, Fargate, ECR, Lambda <br />
+•	Azure - AKS, ACR, and Azure storage  <br />
+•	GCP - GKE, Container Registry, Cloud Storage, and Cloud Monitoring. <br />
+•	OCI - OKE, Container Registry, Autonomous Database, Object Storage and Monitoring <br />
 
 ## Other Technical Skills
 
+•	Data, AI & ML, Prompt Engineering, Generative AI  <br />
+•	Python, Terraform, PowerShell, DevOps, CI/CD <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Power BI, Tableau <br />
-•	DevOps, CI/CD, Python, Terraform, PowerShell <br />
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
 
