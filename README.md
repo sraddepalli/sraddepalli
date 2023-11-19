@@ -53,11 +53,6 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 •	Atlassian tools (JIRA, Confluence), ServiceNow and Remedy <br />
 •      Agile Service Delivery, Stakeholder Management, ITSM, Project Management <br />
 
-## Meetup Organizer
-
-https://www.meetup.com/data-ai-ml-europe-uk/ <br />
-https://www.meetup.com/cloud-devops-sre-europe-uk/ <br />
-
 ## TECHNICAL CONTRIBUTION
 
 <!-- ## AI / ML -->
