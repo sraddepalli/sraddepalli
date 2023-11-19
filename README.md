@@ -46,7 +46,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## Other Technical Skills
 
-•	Data, AI & ML, Prompt Engineering, Generative AI  <br />
+•	Hybrid Cloud, Information Security, Data, Prompt Engineering, Generative AI  <br />
 •	Python, Terraform, PowerShell, DevOps, CI/CD <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
 •	Power BI, Tableau <br />
