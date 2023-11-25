@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can call me - **Srinivas**.
 
-• Having 15+ years of professional experience in IT with Masters education (MCA).
+• Having 16 years of professional experience in IT with Masters education (MCA) in Computer Science.
 
 • Working as **Enterprise Architect / Platform Engineering Lead** - Cloud, Security, Data, AI, ML, Generative AI & Prompt Engineering. 
 
