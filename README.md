@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Having 16 years of professional experience in IT with Masters education (MCA) in Computer Science.
 
-• Working as **Solutions Architect - Cloud, DevOps, Security, Data, Prompt Engineering & Generative AI**. 
+• Working as **Technical Architect / Transformation Manager - Cloud, DevOps, Security, Data & AI**. 
 
 • Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering m.
 
