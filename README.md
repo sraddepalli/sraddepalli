@@ -61,12 +61,12 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 <!-- ## AWS -->
 
-- [𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7163068511219605504-sKwU)
-- [𝐀𝐖𝐒 𝐂𝐨𝐧𝐟𝐢𝐠 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7153417195375513600-w7ez)
-- [𝐀𝐦𝐚𝐳𝐨𝐧 𝐂𝐥𝐨𝐮𝐝𝐖𝐚𝐭𝐜𝐡 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7145810585484480512-3zPp)
-- [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐬 𝐨𝐟 𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭] (https://www.linkedin.com/posts/sraddepalli_foundational-elements-of-zero-trust-activity-7141684720492298240-EVid)
-- [𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 Introduction] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7141338164136202240-yvsQ)
-- [𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞 𝐨𝐧 𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝐚𝐠𝐞𝐌𝐚𝐤𝐞𝐫] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7134420511962361856-LQ04)
+- [𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7163068511219605504-sKwU/)
+- [𝐀𝐖𝐒 𝐂𝐨𝐧𝐟𝐢𝐠 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7153417195375513600-w7ez/)
+- [𝐀𝐦𝐚𝐳𝐨𝐧 𝐂𝐥𝐨𝐮𝐝𝐖𝐚𝐭𝐜𝐡 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐌𝐨𝐧𝐢𝐭𝐨𝐫 updates] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7145810585484480512-3zPp/)
+- [𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐞𝐥𝐞𝐦𝐞𝐧𝐭𝐬 𝐨𝐟 𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭] (https://www.linkedin.com/posts/sraddepalli_foundational-elements-of-zero-trust-activity-7141684720492298240-EVid/)
+- [𝐙𝐞𝐫𝐨 𝐓𝐫𝐮𝐬𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 Introduction] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7141338164136202240-yvsQ/)
+- [𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞 𝐨𝐧 𝐀𝐦𝐚𝐳𝐨𝐧 𝐒𝐚𝐠𝐞𝐌𝐚𝐤𝐞𝐫] (https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-it-careers-activity-7134420511962361856-LQ04/)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜?](https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-learning-activity-7080059668395384832-d8lY/)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐈𝐂 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 (𝐄𝐂2 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭)?](https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-learning-activity-7076920025122525184-kuCW/)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
