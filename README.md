@@ -38,14 +38,12 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 ## TECHNICAL SKILLS
 
 ### Cloud Native
-
-•	AWS - EKS, ECS, DynamoDB, Aurora Serverless, Fargate, ECR, Lambda <br />
 •	Azure - AKS, ACR, and Azure storage  <br />
+•	AWS - EKS, ECS, DynamoDB, Aurora Serverless, Fargate, ECR, Lambda <br />
 •	GCP - GKE, Container Registry, Cloud Storage, and Cloud Monitoring. <br />
 •	OCI - OKE, Container Registry, Autonomous Database, Object Storage and Monitoring <br />
 
 ## Other Technical Skills
-
 •	Hybrid Cloud, Information Security, Data, Prompt Engineering, Generative AI  <br />
 •	Python, Terraform, PowerShell, DevOps, CI/CD <br />
 •	Citrix – XenApp & XenDesktop, VMWare, HyperV, Windows, Active Directory, SCCM, SCOM <br />
