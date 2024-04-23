@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Having over 16 years of professional experience in IT with Masters education (MCA) in Computer Science.
 
-• Working as **Enterprise Architect - Hybrid Cloud & AI \ Technical Project Manager**. 
+• Working as **Technical Transformation Manager \ Consultant - Hybrid Cloud & AI**. 
 
 • Helping customers with advisory and delivery services for Cloud Migration engagements. Handling multiple projects delivery as part of Platform Engineering m.
 
