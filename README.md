@@ -28,7 +28,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Helped CISO & application teams with Data & Cloud Migration, Security Advisory for Cloud Transformation Engagements. 
 
-• UK Resident.
+• UK Resident \ SC (Security Clearance) Eligible.
 
 • AWS Community Builder
 
