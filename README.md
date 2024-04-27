@@ -24,9 +24,9 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Working as **Technical Consultant \  Transformation Lead - Hybrid Cloud & AI**. 
 
-• Helping customers with advisory and delivery services for Cloud Migration engagements. Handled multiple IT transformation programs.
+• Helped customers with advisory and delivery services for Cloud Migration engagements. Handled multiple IT transformation programs.
 
-• Helped CISO & application teams with ecurity Advisory as part of Cloud Transformation Engagements. 
+• Helped CISO & application teams with Security Advisory as part of Cloud Transformation Engagements. 
 
 • UK Resident \ SC (Security Clearance) Eligible.
 
