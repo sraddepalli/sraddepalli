@@ -32,7 +32,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • AWS Community Builder
 
-• Having domain experience in Financial Services, Retail, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
+• Having domain experience in Retail, Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
 
 
 ## TECHNICAL SKILLS
