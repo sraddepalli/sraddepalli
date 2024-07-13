@@ -22,7 +22,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Having over 16 years of professional experience in IT with Masters education (MCA) in Computer Science.
 
-• Working as **Technical Consultant \  Transformation Lead - Hybrid Cloud & AI**. 
+• Working as **Technical Consultant \  Delivery Lead - Hybrid Cloud & AI**. 
 
 • Helped customers with advisory and delivery services for Cloud Migration engagements. Handled multiple IT transformation programs.
 
