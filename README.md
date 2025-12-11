@@ -68,14 +68,14 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐅𝐚𝐛𝐫𝐢𝐜?](https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-learning-activity-7080059668395384832-d8lY/)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐦𝐚𝐳𝐨𝐧 𝐄𝐈𝐂 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 (𝐄𝐂2 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭)?](https://www.linkedin.com/posts/sraddepalli_learnwithsrinivasarajuaddepalli-learning-activity-7076920025122525184-kuCW/)
 - [𝐖𝐡𝐲 𝐝𝐨 𝐰𝐞 𝐮𝐬𝐞 𝐀𝐖𝐒 𝐀𝐩𝐩𝐂𝐨𝐧𝐟𝐢𝐠?](https://www.linkedin.com/posts/sraddepalli_aws-management-and-governance-tools-workshop-activity-7035205051987959808-yrcT/)
-- [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://srinivasa-raju-a.hashnode.dev/aws-cloud-services-aws-mgn)
-- [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://srinivasa-raju-a.hashnode.dev/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
-- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://srinivasa-raju-a.hashnode.dev/aws-cloud-services-pillars-of-aws-well-architected-framework)
-- [Security best practices of Amazon S3](https://srinivasa-raju-a.hashnode.dev/security-best-practices-of-amazon-s3)
-- [Connect on-premises network securely to the AWS Cloud](https://srinivasa-raju-a.hashnode.dev/connect-on-premises-network-securely-to-the-aws-cloud)
-- [AWS Control Tower Overview & Set up](https://srinivasa-raju-a.hashnode.dev/aws-control-tower-overview-set-up)
-- [AWS Purpose-built databases Use Cases](https://srinivasa-raju-a.hashnode.dev/aws-purpose-built-databases-use-cases)
-- [AWS Global Accelerator](https://srinivasa-raju-a.hashnode.dev/aws-global-accelerator)
+- [AWS Cloud Services - AWS MGN (𝐀𝐖𝐒 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐫𝐯𝐢𝐜𝐞)](https://sraddepalli.hashnode.dev/aws-cloud-services-aws-mgn)
+- [AWS Cloud Services - Savings Plans & EC2 RIs (NU, PU, AU)](https://sraddepalli.hashnode.dev/aws-cloud-services-savings-plans-ec2-ris-nu-pu-au-in-aws)
+- [AWS Cloud Services - Pillars of AWS Well-Architected Framework](https://sraddepalli.hashnode.dev/aws-cloud-services-pillars-of-aws-well-architected-framework)
+- [Security best practices of Amazon S3](https://sraddepalli.hashnode.dev/security-best-practices-of-amazon-s3)
+- [Connect on-premises network securely to the AWS Cloud](https://sraddepalli.hashnode.dev/connect-on-premises-network-securely-to-the-aws-cloud)
+- [AWS Control Tower Overview & Set up](https://sraddepalli.hashnode.dev/aws-control-tower-overview-set-up)
+- [AWS Purpose-built databases Use Cases](https://sraddepalli.hashnode.dev/aws-purpose-built-databases-use-cases)
+- [AWS Global Accelerator](https://sraddepalli.hashnode.dev/aws-global-accelerator)
 
 <!-- ## CNCF -->
 
