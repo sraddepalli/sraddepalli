@@ -85,10 +85,10 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 ## 𝐕𝐎𝐋𝐔𝐍𝐓𝐄𝐄𝐑𝐈𝐍𝐆
 
-## ROLE: # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
+## ROLE: # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫
 
 <P>
-I am part of # 𝐀𝐖𝐒 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in Cloud Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
+I am part of # 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐁𝐮𝐢𝐥𝐝𝐞𝐫𝐬 in IT Infra Operatoins Category. I have been contributing to the communities by participating in technical events, sharing the Technical Content, Technical blogs, LinkedIn Technical Posts and LinkedIn documents.
 
 </p>
 
