@@ -28,7 +28,7 @@ I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can cal
 
 • Helped CISO & application teams with Security Advisory as part of Cloud Transformation Engagements. 
 
-• UK Resident \ SC (Security Clearance) Eligible.
+• BPSS & SC (Security Clearance) Eligible \ UK Resident.
 
 • Having domain experience in Retail, Financial Services, Utilities, Oil and Gas, Telecommunications, Healthcare, Pharma, Industrial, Energy & Utilities.
 
