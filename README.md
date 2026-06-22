@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 I'm **[Srinivasa Raju](https://www.linkedin.com/in/sraddepalli/)** ; You can call me - **Srinivas**.
 
-• Having over 16 years of professional experience in IT with Masters education (MCA) in Computer Science.
+• Having extensive experience in IT Infra, Cyber Security and ITSM with Masters education.
 
-• Working as Workplace Support Lead \ Desktop Support Lead. Worked as **Lead Platform Engineer \  Technology Transformation Lead - Hybrid Cloud & AI**. 
+• Working as Modern Workplace \ Infrastructure Engineer. Worked as **Platform Engineer \  Technology Consultant**. 
 
 • Helped customers with advisory and delivery services for Cloud Migration engagements. Handled multiple IT transformation programs.
 
